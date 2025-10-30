@@ -129,6 +129,8 @@
 // console.log(lastInFirstOut);
 
 
+// Question no 15
 
+// let mobilePhoneName = ["Apple", "Samsung", "Motorola", "Nokia", "Sony" ,"Haier"]
 
-
+// document.writeln("<br>",mobilePhoneName);
