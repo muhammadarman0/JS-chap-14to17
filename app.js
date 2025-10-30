@@ -116,7 +116,13 @@
 
 // console.log(firstInFirstOut);
 
-// firstInFirstOut.shift()
+// // firstInFirstOut.shift()
+// console.log(firstInFirstOut.shift());
+// // firstInFirstOut.shift()
+// console.log(firstInFirstOut.shift());
+// // firstInFirstOut.shift()
+// console.log(firstInFirstOut.shift());
+// // firstInFirstOut.shift()
 // console.log(firstInFirstOut.shift());
 
 // Question no 14
@@ -125,8 +131,12 @@
 
 // console.log(lastInFirstOut);
 
-// lastInFirstOut.pop();
-// console.log(lastInFirstOut);
+// lastInFirstOut;
+// console.log(lastInFirstOut.pop());
+// console.log(lastInFirstOut.pop());
+// console.log(lastInFirstOut.pop());
+// console.log(lastInFirstOut.pop());
+
 
 
 // Question no 15
