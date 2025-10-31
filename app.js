@@ -143,4 +143,12 @@
 
 // let mobilePhoneName = ["Apple", "Samsung", "Motorola", "Nokia", "Sony" ,"Haier"]
 
-// document.writeln("<br>",mobilePhoneName);
+// document.writeln(` <select>
+//         <option value="">Apple
+//         </option>
+//         <option value=""> Samsung</option>
+//         <option value=""> Sony</option>
+//         <option value=""> Nokia</option>
+//         <option value=""> Haier</option>
+//         <option value="">Motorola</option>
+//     </select>`);
